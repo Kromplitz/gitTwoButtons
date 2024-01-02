@@ -27,7 +27,6 @@ class MainActivity : Activity() {
             else {Toast.makeText(this, "${res--}", Toast.LENGTH_SHORT).show()}
         }
 
-
     }
 
 }
